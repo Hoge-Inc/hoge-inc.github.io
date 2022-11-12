@@ -1,1 +1,1 @@
-# hogeinc.github.io
+# hoge-inc.github.io
